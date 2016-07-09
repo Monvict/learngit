@@ -6,3 +6,4 @@ So Nice A day, i like it
 人生得意须尽欢
 User branch to deal and commit Not So Cool
 merge with no fast forward
+Merge with fast forward
