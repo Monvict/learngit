@@ -1,3 +1,6 @@
+<!DOCTYPE html>
+<html>
+<body>
 <h2>Hello World</h2>
 So Nice A day, i like it
 搞了一个晚上，终于是吧git给安装好了，号辛苦啊
@@ -9,3 +12,5 @@ merge with no fast forward
 Merge with fast forward
 这个 fetch 和pull都用不了，这就有点奇怪了
 网络会时常有问题，这可如何是好，虚拟机就是不太行啊
+</body>
+</html>
