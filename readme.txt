@@ -7,3 +7,4 @@ So Nice A day, i like it
 User branch to deal and commit Not So Cool
 merge with no fast forward
 Merge with fast forward
+这个 fetch 和pull都用不了，这就有点奇怪了
