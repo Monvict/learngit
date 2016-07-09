@@ -7,4 +7,4 @@ So Nice A day, i like it
 User branch to deal and commit Not So Cool
 merge with no fast forward
 Merge with fast forward
-在 issue-154这个分支上，进行bug的修复..........
+这个 fetch 和pull都用不了，这就有点奇怪了
