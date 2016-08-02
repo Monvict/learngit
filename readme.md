@@ -9,5 +9,5 @@ merge with no fast forward
 Merge with fast forward
 这个 fetch 和pull都用不了，这就有点奇怪了
 网络会时常有问题，这可如何是好，虚拟机就是不太行啊
-Markdown文档的格式，写出来的效果还是相当不错的
-可以学习一下！
+**Markdown文档的格式，写出来的效果还是相当不错的**
+*可以学习一下！*
